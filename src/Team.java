@@ -3,7 +3,7 @@ import java.util.Iterator;
 
 /**
  * Name: Abdullah Hakimi
- * Date: January 24th, 2024
+ * Date: February 24th 2025
  * Description: This file defines the Team class, which represents a sports team with a roster of players.
  *              It includes attributes for the team's name, roster, and maximum number of players, and provides
  *              methods to add players, check if a player is in the roster, and iterate over the roster.

@@ -1,6 +1,6 @@
 /**
  * Name: Abdullah Hakimi
- * Date: January 24th, 2024
+ * Date: February 24th 2025
  * Description: This file defines the Player class, which represents a player in a sports team.
  *              It includes attributes for the player's name and position, and provides methods to
  *              initialize players, compare players, and generate a string representation of a player.
